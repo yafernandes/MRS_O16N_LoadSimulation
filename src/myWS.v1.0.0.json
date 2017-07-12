@@ -1,0 +1,20 @@
+{
+	"input": {
+		"Sepal.Length": [
+			4.7,
+			6.8
+		],
+		"Sepal.Width": [
+			3.2,
+			2.9
+		],
+		"Petal.Length": [
+			1.5,
+			5.4
+		],
+		"Petal.Width": [
+			0.2,
+			2.1
+		]
+	}
+}
